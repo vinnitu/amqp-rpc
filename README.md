@@ -17,7 +17,7 @@ import (
 	"net/rpc"
 
 	"github.com/streadway/amqp"
-	"github.com/vibhavp/amqp-rpc"
+	"github.com/vinnitu/amqp-rpc"
 )
 	
 type Args struct {
@@ -67,7 +67,7 @@ package client
 
 import (
 	"github.com/streadway/amqp"
-	"github.com/vibhavp/amqp-rpc"
+	"github.com/vinnitu/amqp-rpc"
 )
 	
 func main() {
